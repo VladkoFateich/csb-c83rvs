@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://vladkofateich.github.io/csb-c83rvs/static/css/main.aff70c49.chunk.css",
+    "main.js": "https://vladkofateich.github.io/csb-c83rvs/static/js/main.daefc950.chunk.js",
+    "main.js.map": "https://vladkofateich.github.io/csb-c83rvs/static/js/main.daefc950.chunk.js.map",
+    "runtime-main.js": "https://vladkofateich.github.io/csb-c83rvs/static/js/runtime-main.5e389c61.js",
+    "runtime-main.js.map": "https://vladkofateich.github.io/csb-c83rvs/static/js/runtime-main.5e389c61.js.map",
+    "static/js/2.4028ab9d.chunk.js": "https://vladkofateich.github.io/csb-c83rvs/static/js/2.4028ab9d.chunk.js",
+    "static/js/2.4028ab9d.chunk.js.map": "https://vladkofateich.github.io/csb-c83rvs/static/js/2.4028ab9d.chunk.js.map",
+    "index.html": "https://vladkofateich.github.io/csb-c83rvs/index.html",
+    "static/css/main.aff70c49.chunk.css.map": "https://vladkofateich.github.io/csb-c83rvs/static/css/main.aff70c49.chunk.css.map",
+    "static/js/2.4028ab9d.chunk.js.LICENSE.txt": "https://vladkofateich.github.io/csb-c83rvs/static/js/2.4028ab9d.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.5e389c61.js",
+    "static/js/2.4028ab9d.chunk.js",
+    "static/css/main.aff70c49.chunk.css",
+    "static/js/main.daefc950.chunk.js"
+  ]
+}
